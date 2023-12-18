@@ -1,2 +1,2 @@
 # ebook-hub
-An ebook website designed for ebook hub
+An ebook website template designed for ebook hub
